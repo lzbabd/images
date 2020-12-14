@@ -1,0 +1,15 @@
+// ~/.picgo/config.json
+{
+  "picBed": {
+    "uploader": "github",
+    "current": "github",
+    "github": {
+      "repo": "lzbabd/images",
+      "branch": "master",
+      "token": "86d79960624a7fe755d56898775ff8b202e950ae",
+      "path": "images/",
+      "customUrl": ""
+    }
+  },
+  "picgoPlugins": {}
+}

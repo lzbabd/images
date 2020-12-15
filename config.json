@@ -6,9 +6,9 @@
     "github": {
       "repo": "lzbabd/images",
       "branch": "master",
-      "token": "86d79960624a7fe755d56898775ff8b202e950ae",
-      "path": "images/",
-      "customUrl": ""
+      "token": "fb130c5bd6929caf896148c05527358b5ded8cf7",
+      "path": "",
+      "customUrl": "https://cdn.jsdelivr.net/gh/lzbabd/images@master"
     }
   },
   "picgoPlugins": {}

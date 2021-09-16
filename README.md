@@ -24,7 +24,7 @@ picgo 配置
     "githubPlus": {
       "repo": "lzbabd/images",
       "branch": "master",
-      "token": "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",
+      "token": "xxx",
       "path": "",
       "customUrl": "https://cdn.jsdelivr.net/gh/lzbabd/images@master",
       "origin": "github"
